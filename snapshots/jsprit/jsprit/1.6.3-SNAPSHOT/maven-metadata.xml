@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>jsprit</groupId>
+  <artifactId>jsprit</artifactId>
+  <version>1.6.3-SNAPSHOT</version>
+  <versioning>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.6.3-20160308</value>
+        <updated>20160308</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
